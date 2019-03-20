@@ -11,6 +11,7 @@
     <modules>
         <module>kafka</module>
         <module>lfx2</module>
+        <module>kafka2</module>
     </modules>
 
 
